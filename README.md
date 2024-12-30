@@ -1,1 +1,1 @@
-# Northwind
+# Northwind Demo Database - MS SQL
